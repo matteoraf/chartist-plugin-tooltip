@@ -13,7 +13,7 @@ module.exports = function (grunt) {
   return {
     dist: {
       src: [
-        'node_modules/chartist/dist/chartist.js',
+        'node_modules/@matteoraf/chartist/dist/chartist.js',
         '<%= pkg.config.src %>/scripts/<%= pkg.config.src_name %>.js'
       ],
       options: {

@@ -1,9 +1,12 @@
+## Fork Info
+Refactored to use `@matteoraf/chartist` package instead of `chartist`
+This repository is a fork of [LukBukkit/chartist-plugin-tooltip](https://github.com/LukBukkit/chartist-plugin-tooltip). 
+
+## Install
+
+npm -i @matteoraf/chartist-plugin-tooltip
+
 # Tooltip plugin for Chartist.js (Updated)
-[![Build Status](https://travis-ci.com/LukBukkit/chartist-plugin-tooltip.svg?branch=master)](https://travis-ci.com/LukBukkit/chartist-plugin-tooltip)
-[![npm](https://img.shields.io/npm/v/chartist-plugin-tooltips-updated.svg)](https://www.npmjs.com/package/chartist-plugin-tooltips-updated)
-
-[![NPM](https://nodei.co/npm/chartist-plugin-tooltips-updated.png)](https://nodei.co/npm/chartist-plugin-tooltips-updated/)
-
 
 This plugin provides quick and easy tooltips for your chartist charts. Touch support is planned soon.
 
@@ -11,28 +14,6 @@ Please visit http://gionkunz.github.io/chartist-js/plugins.html for more informa
 
 NPM package: https://www.npmjs.com/package/chartist-plugin-tooltips-updated
 
-## Why this fork?
-This repository is a fork of [tmmdata/chartist-plugin-tooltip](https://github.com/tmmdata/chartist-plugin-tooltip). 
-(Thanks for the great work!)
-
-It seems as this repository is no longer maintained, 
-that's why I decieded to fork it and **include serval pull requests** and
-**update the dependencies**.
-
-#### Included Pull Requests
-
-* [#87 Document new meta options](https://github.com/tmmdata/chartist-plugin-tooltip/pull/87) from meisanerd 
-* [#131 (feature) add chartist-plugin-tooltip.scss to dist folder](https://github.com/tmmdata/chartist-plugin-tooltip/pull/131) from Zadvornyi
-* [#136 Fix issue checking chart type when uglified](https://github.com/tmmdata/chartist-plugin-tooltip/pull/136) from jkowens
-* [#128 Fixes width/height being incorrect](https://github.com/tmmdata/chartist-plugin-tooltip/pull/128) from jdoyle65 
-* [#160 Fixed memory leak](https://github.com/tmmdata/chartist-plugin-tooltip/pull/160) from callanto
-* [#173 Adding support for SOLID donut graphs](https://github.com/tmmdata/chartist-plugin-tooltip/pull/173) from AlexLaforge
-* [#9 Add support to IE11](https://github.com/LukBukkit/chartist-plugin-tooltip/pull/9) from Borrajo
-
-#### More new exciting stuff
-* Upgrade to Yarn
-* Up-to-date dependencies
-* Latest version published on npm
 
 ## Available options and their defaults
 
