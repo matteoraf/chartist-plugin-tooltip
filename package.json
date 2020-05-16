@@ -31,7 +31,7 @@
     }
   ],
   "dependencies": {
-    "@matteoraf/chartist": "0.11.5"
+    "@matteoraf/chartist": "0.11.6"
   },
   "devDependencies": {
     "coffeescript": "2.5.1",
