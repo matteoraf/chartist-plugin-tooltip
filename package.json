@@ -2,7 +2,7 @@
   "name": "@matteoraf/chartist-plugin-tooltip",
   "description": "Point Labels Plugin for Chartist.js",
   "version": "0.1.5",
-  "author": "LukBukkit & Markus Padourek",
+  "author": "(matteoraf) LukBukkit & Markus Padourek",
   "homepage": "https://github.com/matteoraf/chartist-plugin-tooltip",
   "repository": {
     "type": "git",
