@@ -1,7 +1,7 @@
 {
   "name": "@matteoraf/chartist-plugin-tooltip",
   "description": "Point Labels Plugin for Chartist.js",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "author": "LukBukkit & Markus Padourek",
   "homepage": "https://github.com/matteoraf/chartist-plugin-tooltip",
   "repository": {
@@ -62,7 +62,7 @@
     "version": "grunt build && git add -A ."
   },
   "config": {
-    "banner": "/* chartist-plugin-tooltip <%= pkg.version %>\n * Copyright © <%= year %> Markus Padourek\n * Free to use under the WTFPL license.\n * http://www.wtfpl.net/\n */\n",
+    "banner": "/* chartist-plugin-tooltip <%= pkg.version %>\n * Copyright © <%= year %> Markus Padourek (matteoraf version)\n * Free to use under the WTFPL license.\n * http://www.wtfpl.net/\n */\n",
     "src": "src",
     "dist": "dist",
     "tmp": ".tmp",

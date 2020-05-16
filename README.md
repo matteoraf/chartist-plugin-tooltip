@@ -4,7 +4,7 @@ This repository is a fork of [LukBukkit/chartist-plugin-tooltip](https://github.
 
 ## Install
 
-npm -i @matteoraf/chartist-plugin-tooltip
+npm i @matteoraf/chartist-plugin-tooltip --save
 
 # Tooltip plugin for Chartist.js (Updated)
 
